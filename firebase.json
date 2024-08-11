@@ -1,0 +1,1 @@
+{"flutter":{"platforms":{"android":{"default":{"projectId":"agora-sdk-demo","appId":"1:512041380961:android:12696fa983a3ce8f670e20","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"agora-sdk-demo","configurations":{"android":"1:512041380961:android:12696fa983a3ce8f670e20"}}}}}}
